@@ -5,5 +5,79 @@
              "title":"Learn React",
              "status" : false
           }
+    ],
+    "pitches" : [
+        {
+            "id" : 1,
+            "title" :"john doe going to canada",
+            "category":"Food",
+            "image" : "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price" : 78998989,
+            "founder": "John Doe"
+        },
+        {
+            "id": 2,
+            "title": "Summer BBQ Party",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 4999,
+            "founder": "Jane Smith"
+        },
+        {
+            "id": 3,
+            "title": "Healthy Smoothies",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 799,
+            "founder": "Alex Johnson"
+        },
+        {
+            "id": 4,
+            "title": "Authentic Italian Pizza",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 1599,
+            "founder": "Mario Rossi"
+        },
+        {
+            "id": 5,
+            "title": "Freshly Baked Bread",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 299,
+            "founder": "Emily Brown"
+        },
+        {
+            "id": 6,
+            "title": "Delicious Desserts",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 699,
+            "founder": "David Lee"
+        },
+        {
+            "id": 7,
+            "title": "Gourmet Burgers",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 899,
+            "founder": "Sarah Adams"
+        },
+        {
+            "id": 8,
+            "title": "Mexican Street Tacos",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 499,
+            "founder": "Carlos Hernandez"
+        },
+        {
+            "id": 9,
+            "title": "Sushi Extravaganza",
+            "category": "Food",
+            "image": "https://cdn-0.generatormix.com/images/thumbs/random-foods-generator.jpg",
+            "price": 1299,
+            "founder": "Yuki Tanaka"
+        }
     ]
 }
